@@ -1,0 +1,12 @@
+2021-10-08	20:32:37		Entered in to train method in Training class.Training started2021-10-08	20:32:42		Entered in to train method in Training class.train,test,val split successfull2021-10-08	20:32:44		Entered in to train method in Training class. Model successfully initialized2021-10-08	20:32:44		Entered in to train method in Training class.Model compile successfull2021-10-08	20:32:44		Entered in to train method in Training class.Training start time 2021-10-08 20:32:44.7083412021-10-08	20:36:41		Unsuccessful End of Training2021-10-08	20:51:48		Entered in to train method in Training class.Training started
+2021-10-08	20:51:54		Entered in to train method in Training class.train,test,val split successfull
+2021-10-08	20:51:55		Entered in to train method in Training class. Model successfully initialized
+2021-10-08	20:51:55		Entered in to train method in Training class.Model compile successfull
+2021-10-08	20:51:55		Entered in to train method in Training class.Training start time 2021-10-08 20:51:55.663465
+2021-10-08	21:15:50		Entered in to train method in Training class.Total time taken is 0:23:54.656884
+2021-10-08	21:15:50		Entered in to train method in Training class.model saved successfully
+2021-10-08	21:15:51		Entered in to train method in Training class.model evaluation started
+2021-10-08	21:18:15		Entered in to train method in Training class.classification report <function classification_report at 0x00000184B52241F0>
+2021-10-08	21:18:15		Entered in to train method in Training class.confusion matrix is[[141   0   1]
+ [  1 145   0]
+ [  0   0 149]]
